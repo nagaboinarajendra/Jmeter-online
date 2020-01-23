@@ -1,0 +1,1 @@
+docker_swarm_manager_ip is 10.136.108.238
