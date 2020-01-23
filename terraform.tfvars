@@ -1,5 +1,0 @@
-do_token="df4f0651af90b98e85e1b396055bf5dff30a3ce5c21e5a1647946f8f109d08c3"
-public_key_path="C:\\Users\\Rajendra_Nagaboina\\Desktop\\demo\\demokey.pub"
-private_key_path="C:\\Users\\Rajendra_Nagaboina\\Desktop\\demo\\demokey"
-putty_gen_key="C:\\Users\\Rajendra_Nagaboina\\Desktop\\demo\\demokey1.ppk"
-worker_token_local_path="C:\\Users\\Rajendra_Nagaboina\\Desktop\\demo\\worker.token"
